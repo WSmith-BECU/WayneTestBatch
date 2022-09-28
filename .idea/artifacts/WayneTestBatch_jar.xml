@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WayneTestBatch:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WayneTestBatch_jar</output-path>
+    <root id="archive" name="WayneTestBatch.jar">
+      <element id="module-output" name="WayneTestBatch" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/db2jcc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/corelation_script.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
